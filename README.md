@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vazeem-T
-- 👀 I’m interested in coding and learning new thingd
+- 👀 I’m interested in coding and learning new things
 - 🌱 I’m currently learning to code
 - 💞️ I had completed my bachelor's degree in computer science and currently looking for a job as a trainee
 - 📫 You can reach me at vaseemannara@gmail.com
